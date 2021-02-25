@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Andy Liang from Taiwan!
+
+Currently a senior student at department of Information Management in National Taiwan University.
+
+Here's [My Resume](https://www.cakeresume.com/andy-liang/). Please refer to it for more information
+
+Thank you!
