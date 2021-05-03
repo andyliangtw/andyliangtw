@@ -22,3 +22,5 @@ Currently a senior student at department of Information Management in National T
 Here's [My Resume](https://www.cakeresume.com/andy-liang/). Please refer to it for more information.
 
 Thank you!
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=andyliangtw&count_private=true&show_icons=true&theme=react)
