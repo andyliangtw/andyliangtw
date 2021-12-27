@@ -19,7 +19,7 @@ Hi, I'm Andy Liang from Taiwan!
 
 Graduated from Department of Information Management in National Taiwan University.
 
-Here's [My Resume](https://www.cakeresume.com/andyliangtw). Please refer to it for more information.
+Here's [My Resume](https://www.cakeresume.com/andyliangtw) and [My LinkedIn](https://www.linkedin.com/in/andyliangtw/). Please refer to them for more information.
 
 Thank you!
 
