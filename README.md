@@ -22,3 +22,7 @@ Here's [My Resume](https://www.cakeresume.com/andyliangtw) and [My LinkedIn](htt
 Thank you!
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=andyliangtw&count_private=true&show_icons=true&theme=react)
+
+<!--
+![Top Langs](https://getusetprofile.vercel.app/api/top-langs/?username=andyliangtw&layout=compact&hide=html&theme=react)
+-->
